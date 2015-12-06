@@ -1,0 +1,3 @@
+export const ADD_PRODUCT = 'ADD_PRODUCT'
+export const CHECK_PRODUCT = 'CHECK_PRODUCT'
+export const UNCHECK_PRODUCT = 'UNCHECK_PRODUCT'
